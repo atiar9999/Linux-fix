@@ -158,7 +158,7 @@ document.addEventListener('DOMContentLoaded', function() {
             size: '0.5 KB',
             content: `# Furniture Shopping Guide\n\n## Bed\n- Price: ~8,000 BDT\n- Video: https://youtu.be/_rs_RP2NQSs\n\n## Dining Set\n- Price: ~16,000 BDT\n- Video: https://youtu.be/CLBNa2AAHbA\n\n## Wardrobe & Tables\n- Almari: 13,000 BDT\n- Dressing Table: 13,000 BDT\n- Reading Table: 11,000 BDT\n- Video: https://youtu.be/lrkQrTKnxY4\n\n## Computer Table\n- Price: 5,400 BDT\n- Link: https://regalfurniturebd.com/product/computer-table-k6v1mk\n\n## Other Items\n- BRB Fan: 3,700 BDT\n- Kitchen Set: 6,000 BDT\n- Cabinet: 12,000 BDT\n- Video: https://youtu.be/7zoSbpXdV20\n\n## Shopping Tips\n1. Compare prices from multiple stores\n2. Check material quality\n3. Measure your space before buying\n4. Look for warranty options`
         },
-        {
+        {            
             id: 'id-pass',
             name: 'id pass  .txt',
             title: 'Account Credentials',
@@ -169,7 +169,7 @@ document.addEventListener('DOMContentLoaded', function() {
             color: '#6b7280',
             lines: 3,
             size: '0.1 KB',
-            content: `# Account Credentials\n\nUsername: OI71mveCoNZSo0oK\nPassword: e9kDS44KdZIUXN0ZRH7aPmlwXxHHnS5n\n\n## Security Notes\n- Keep this information secure\n- Use password manager if possible\n- Enable two-factor authentication\n- Change passwords regularly`
+            content: `# Account Credentials\n\nUsername: ****mve********\nPassword: e9kDS44KdZIUXN0ZRH7aPmlwXxHHnS5n\n\n## Security Notes\n- Keep this information secure\n- Use password manager if possible\n- Enable two-factor authentication\n- Change passwords regularly`
         },
         {
             id: 'old-pattern',
